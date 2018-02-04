@@ -1,0 +1,1451 @@
+header {
+	background: transparent;
+	position: absolute;
+	top: 0;
+	left: 0;
+    width: 100%;
+	transition: 200ms all;
+	height: 6em;
+    z-index: 98;
+      text-align: center;
+}
+.logomiddle {
+    font-family: sans-serif;
+    color: dodgerblue;
+    font-size: 25px;
+    top: 10%;
+    left: 10%;
+    position: absolute;
+}
+.divlogo {
+    text-align: center;
+}
+.logomiddlebottom {
+    font-size: 13px;
+    position: absolute;
+    top: 13%;
+    left: 13.3%;
+    font-family: sans-serif;
+}
+.logotop {
+    width: 50px;
+    height: 50px;
+    background: transparent;
+    top: 6%;
+    left: 13.5%;
+    color: transparent;
+    position: absolute;
+    transform: rotateZ(45deg);
+    border-left: 4px solid dodgerblue;
+    border-top: 4px solid dodgerblue;
+    
+}
+.logotopbottom {
+    width: 25px;
+    height: 25px;
+    background: transparent;
+    top: 8%;
+    left: 14.2%;
+    color: transparent;
+    position: absolute;
+    transform: rotateZ(45deg);
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}.logobottom {
+    width: 50px;
+    height: 50px;
+    background: transparent;
+    top: 14.5%;
+    left: 13.5%;
+    color: transparent;
+    position: absolute;
+    transform: rotateZ(45deg);
+    border-right: 4px solid dodgerblue;
+    border-bottom: 4px solid dodgerblue;
+    
+}
+.logobottomtop {
+    width: 25px;
+    height: 25px;
+    background: transparent;
+    top: 15%;
+    left: 14.2%;
+    color: transparent;
+    position: absolute;
+    transform: rotateZ(45deg);
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.divpicparent {
+    width: 311px;
+    height: 354px;
+}
+.text2 {
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    top:50%;
+    left: 10%;
+    right: 10%;
+    width: auto;
+    position: absolute;
+    height: auto;
+}
+.text3 {
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    top:190%;
+    left: 10%;
+    right: 10%;
+    width: auto;
+    position: absolute;
+    height: auto;
+}
+.divpictitle {
+    position: absolute;
+    left: 10%; 
+    top: 10%; 
+    font-family: sans-serif; 
+    color: gray;
+}
+.divpic1 {
+    right: 90%; 
+    position: absolute;
+    top: 13%;
+}
+.divpic2 {
+    right: 90%; 
+    position: absolute;
+    top: 33%;
+}
+.pic2 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 10%;
+}
+.pic1 {
+    height: 150px; 
+    width: 150px; 
+    position: absolute; 
+    margin-left: 160px; 
+    top: 10%;
+}
+.pic3 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 30%;
+}
+.pic4 {
+   height: 150px;
+    width: 150px; 
+    position: absolute; 
+    margin-left: 160px; 
+    top: 30%; 
+}
+header nav#normal {
+	color: #1D85A8;
+	display: inline-block;	
+}
+.ul1 {
+    right: 15%;
+    position: absolute;
+}
+.title {
+    position: absolute;
+    margin-left: -30%;
+    top: 30%;
+}
+.bg2 {
+	background:url('../img/Background.png') center / contain no-repeat;
+    margin:0 auto;
+    width:100%;
+	position: fixed;
+	left: 0;
+	top: -6%;
+   	height: 10%;
+    padding-bottom: 50.25%;
+}
+.landschaft {
+	width: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+	height: 100%;
+}
+
+button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: -6px;
+    color: dimgray;
+    margin-bottom: -13.6px;
+    
+}
+.content {
+    margin-top: 49.3%;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    z-index: 99;
+    height: 800px;
+}
+
+#ulfooter {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 153%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+	font-family: sans-serif;
+}#ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 150%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+.halbstrich {
+    border-bottom: 5px solid dodgerblue;
+color: gray;
+}
+.footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 45%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}.footertext {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 45%;
+    text-decoration: none;
+	font-family: sans serif;
+}
+.footertext:hover {
+    color: dodgerblue;
+}
+.text1{
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    margin-top: 5%;
+    left: 50%;
+    width: 13%;
+    position: absolute;
+}
+.text4{
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    top: 10%;
+	margin-top: 5%;
+    left: 10%;
+    width: 13%;
+    position: absolute;
+}
+.spendentext {
+    margin-top: 5%; 
+    right: 10%;
+    text-align:justify;
+    top: 0%; 
+    font-family: sans-serif; 
+    position: absolute;
+    width: 13%; 
+    color: gray;
+}
+.gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -55%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+.br {
+    height: 10%;
+    visibility: hidden;
+}
+.spendenanzahl {
+    transition: border-radius 400ms ease;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border: 10px solid gray;
+    position: absolute;
+    left: 10%;
+    cursor: pointer;
+}
+.spendenanzahl:hover {
+    text-align: center;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: 10px solid dodgerblue;
+    vertical-align: middle;
+}
+.spendenanzahltext {
+    vertical-align: middle;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 35px;
+    margin-left: -6%;
+    transition: 400ms;
+}
+.spendenanzahl:hover .spendenanzahltext {
+    font-size: 40px;
+    color: dodgerblue;
+}
+.button2 {
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    transition: all 500ms;
+    background: dodgerblue;
+    background: hsla(180,50%,50%,0.9) 
+    font-family: sans-serif;
+    color: dimgray;
+    bottom: 290%;
+    position: absolute;
+    z-index: 104;
+    left: 44%;
+    cursor: pointer;
+}
+.button2:hover {
+  background: hsla(180,100%,50%,0.3); 
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+h2 {
+    margin-top: -20%;
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: left;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+body div#div {
+    box-shadow: none;
+    text-align: center;
+    height: 10%;
+    z-index: 2;
+}
+body {
+    text-align: center;
+}
+
+
+body div#content a ul > li {
+    list-style: none;
+}
+header nav#normal ul li {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	position: relative;
+	transition: all 300ms;
+    text-align: center;
+    top: 1px;
+}
+header nav#normal ul li a {
+	display: inline-block;
+	padding: 1em;
+    position: relative;
+	min-width: 9em;
+	min-height: 1em;
+	text-align: center;
+	font-size: 1rem;
+	color: #212121;
+	margin: 0 1px 0 0;
+	text-decoration: none;
+	background: transparent;
+	font-weight: 300;
+	transition: all 1000ms;
+	font-family: sans-serif;
+    margin-right: 10px;
+    border-bottom-width: 0px;
+}
+
+
+.img2{
+    height: 110px;
+    width:196px;
+    float: left;
+    margin-left: 20px;
+    position: relative;
+    border: 5px dashed #09481C;
+}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hr1 {
+    visibility: hidden;
+    transition: 200ms;
+    width: 0.0px;
+    color: black;
+    outline: none;
+    text-decoration: none;
+height: 1px;
+}
+.hr2 {
+    visibility: hidden;
+    transition: 200ms;
+    width: 0.0px ;
+    color:	black;
+    outline: none;
+    text-decoration: none;
+height: 1px;
+}
+.hr3 {
+    visibility: hidden;
+    transition: 200ms;
+    width: 0.0px;
+    outline: none;
+    color: black;
+    text-decoration: none;
+height: 1px;
+}
+.h1:hover {
+    width: 3px;
+    visibility: visible;
+    background: white;
+}
+.h2:hover {
+    width: 5px;
+    visibility: visible;
+    background: white;
+}
+.h3:hover {
+    width: 5px;
+    visibility: visible;
+    background: white;
+}
+header nav#normal ul li:hover > a .hr1 {
+    width: 40px;
+    visibility: visible;
+    background: black;
+height: 1px;
+}
+header nav#normal ul li:hover > a .hr2 {
+    width: 80px;
+    visibility: visible;
+    background: black;
+height: 1px;
+}
+header nav#normal ul li:hover > a .hr3 {
+    width: 130px;
+    visibility: visible;
+    background: black;
+height: 1px;
+}
+
+
+body div div#content2 {
+    width: 960px;
+    position: relative;
+    background-color: white;
+    display: inline-block;
+    height: auto;
+    top: 20%;
+    z-index: 60;
+    box-shadow: 0px 0px 32px 0px;
+}
+
+
+
+body div ul{
+    top: 3.4em;
+    position: relative;
+}
+.slides {
+    box-shadow: 0px 0px 32px 0px #111;
+    z-index: 10;
+    position: relative;
+}
+.vorstand{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.img {
+    border-radius: 5px;
+    border: 5px dashed #09481C;
+}
+
+header div#menu ul li {
+    list-style: none;
+}
+.h1 {
+    color: black; 
+    font-size: 40px;
+}
+header div#menu ul ul li {
+    list-style: none;
+    display:none;
+}
+@media screen and (max-width: 1650px){
+    .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 65%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -75%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 170%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+}
+@media screen and (max-width: 1440px){
+    .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 85%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -95%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 190%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+}
+@media screen and (max-width: 1240px){
+    .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 105%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -115%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 210%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+}
+@media screen and (max-width: 1070px){
+    .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 125%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -135%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 230%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+}
+@media screen and (max-width: 900px){
+       .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 145%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -155%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 250%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+    .pic2 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 10%;
+}
+    .pic1 {
+    height: 100px; 
+    width: 100px; 
+    position: absolute; 
+    margin-left: 110px; 
+    top: 10%;
+}
+    .pic3 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 15%;
+}
+    .pic4 {
+   height: 100px;
+    width: 100px; 
+    position: absolute; 
+    margin-left: 110px; 
+    top: 15%; 
+}
+    .divpic2 {
+    right: 90%; 
+    position: absolute;
+    top: 27%;
+}
+    .button2 {
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    transition: background 500ms;
+    background: dodgerblue;
+    background: hsla(180,50%,50%,2); 
+    font-family: sans-serif;
+    color: dimgray;
+    bottom: 120%;
+    position: absolute;
+    z-index: 104;
+    left: 34%;
+    cursor: pointer; 
+    }
+    header nav#normal ul li a {
+	display: inline-block;
+	padding: 1em;
+    position: relative;
+	min-width: 9em;
+	min-height: 1em;
+	text-align: center;
+	font-size: 1rem;
+    top: 120px;
+	color:#212121;
+	margin: 0 1px 0 0;
+	text-decoration: none;
+	background: transparent;
+	font-weight: 300;
+	transition: all 1000ms;
+    border-bottom-width: 0px;
+    font-family: sans-serif;
+}
+    .title {
+        position: absolute;
+    margin-left: -20%;
+    top: 30%;
+    }
+}
+@media screen and (max-width: 800px){
+           .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 165%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -175%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 270%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}
+}
+@media screen and (max-width: 700px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 185%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -195%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 290%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+}    
+    .spendentext {
+    margin-top: 5%; 
+    left: 10%;
+    text-align:justify;
+    top: 57%; 
+    font-family: sans-serif; 
+    position: absolute;
+    width: 40%; 
+    color: gray;
+}
+    .text1 {
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    top: 56%;
+    left: 60%;
+    width: 30%;
+    position: absolute;
+    }
+    .divpic2 {
+    right: 90%; 
+    position: absolute;
+    top: 33%;
+}
+.pic2 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 10%;
+}
+.pic1 {
+    height: 150px; 
+    width: 150px; 
+    position: absolute; 
+    margin-left: 160px; 
+    top: 10%;
+}
+.pic3 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 30%;
+}
+.pic4 {
+   height: 150px;
+    width: 150px; 
+    position: absolute; 
+    margin-left: 160px; 
+    top: 30%; 
+}
+}
+@media screen and (max-width: 620px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 205%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -215%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 310%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 560px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 225%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -235%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 330%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+
+
+
+}
+@media screen and (max-width: 500px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 245%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+.title {
+	display: none;
+}
+header nav#normal ul li a {
+	display: inline-block;
+	padding: 1em;
+    position: relative;
+	min-width: 9em;
+	min-height: 1em;
+	text-align: center;
+	font-size: 1rem;
+	color: #212121;
+	margin: 0 1px 0 0;
+	text-decoration: none;
+	background: transparent;
+	font-weight: 300;
+	transition: all 1000ms;
+	font-family: sans-serif;
+    margin-right: 10px;
+	top: 10px;
+    border-bottom-width: 0px;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -255%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 350%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 460px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 275%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -285%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 380%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 410px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 305%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -315%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 410%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+    .button2 {
+        display: none;
+    }
+}
+@media screen and (max-width: 370px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 335%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -345%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 440%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 340px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 365%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -375%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 470%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 303px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 385%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -395%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 490%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 290px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 415%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -425%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 520%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 268px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 455%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -465%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 560%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 250px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 495%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -505%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 600%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 231px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 535%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -545%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 640%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 220px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 595%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -605%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 700%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
+@media screen and (max-width: 191px){
+              .footertext2 {
+    cursor: pointer;
+    bottom: 0;
+    position: relative;
+    z-index: 101;
+    color: dimgray;
+    transition: all 200ms;
+    margin-top: 655%;
+    text-decoration: none;
+}
+.footertext2:hover {
+    color: dodgerblue;
+}
+    .gif1 {
+    height:15%; 
+    width:103%;
+    bottom: -665%;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    z-index: 99; 
+}
+    #ulfooter2 {
+    list-style:none;
+    left: 0;
+    position: absolute;
+    color: dimgray;
+    text-align: left;
+    position: absolute;
+    z-index: 101;
+    top: 760%;
+    width: 100%;
+    height: 12%;
+    background-color: #212121;
+} 
+}
